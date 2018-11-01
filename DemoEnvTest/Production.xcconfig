@@ -1,0 +1,12 @@
+//
+//  Production.xcconfig
+//  DemoEnvTest
+//
+//  Created by Kapil IIINC on 01/11/18.
+//  Copyright © 2018 kite.work. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+server_url = www.production.com
